@@ -19,4 +19,4 @@
 - 单纯的喜欢写歌，编曲，作词，做音乐，[网易音乐人歌手页](http://music.163.com/#/artist?id=12038156)
 - 单纯的喜欢打篮球，T-MAC谜弟，虽然弹跳已经从原地起跳双手抓框退化成单手摸框都费劲，但还是偶尔会打两场。
 ## 微信
-![image](https://github.com/yuanqiuqian/resume/blob/master/WechatIMG1.jpeg)
+![image](https://github.com/yuanqiuqian/resume/blob/master/qr.png)
